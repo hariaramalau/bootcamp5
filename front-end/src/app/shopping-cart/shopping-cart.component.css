@@ -1,0 +1,18 @@
+.vertical-align-center {
+    /* To center vertically */
+    vertical-align: middle;
+    /* pointer-events:none; */
+}
+
+.vertical-alignment-helper {
+    height: 100%;
+    width: 100%;
+    /* pointer-events:none;  */
+}
+
+.img{
+    width: 30px;
+    height:30px;
+}
+
+
